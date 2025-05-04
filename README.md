@@ -21,3 +21,12 @@
 | Detaylı Çıktı    | ![image](https://github.com/user-attachments/assets/7e97d97a-7fbc-4ba2-bd64-5739321c67dc) |
 
 </details>
+
+## Proje Görüntüleme Sayısı
+
+[![GitHub Views](https://komarev.com/ghpvc/?username=wasetrox&repo=discord-advanced-token-checker&label=Görüntüleme)](https://github.com/wasetrox/discord-advanced-token-checker)
+
+
+## İletişim
+
+- **Discord**: [Wasetrox](https://discordapp.com/users/312062402273345537)
