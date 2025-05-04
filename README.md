@@ -13,7 +13,7 @@
 ## Görüntüler
 
 <details>
-  <summary>Discord Token Checker Ekran Görüntüleri</summary>
+  <summary>Ekran Görüntüleri</summary>
 
 | Açıklama                   | Resim                                                                                                  |
 |----------------------------|--------------------------------------------------------------------------------------------------------|
